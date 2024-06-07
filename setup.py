@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='text_summarizer',
+    name='textSummarizer',
     version='0.1.0',
     author='Tanmay Wani',
     author_email='tanmaywani145@gmail.com',
