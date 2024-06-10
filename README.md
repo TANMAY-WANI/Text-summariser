@@ -51,6 +51,17 @@ After training the model, use the `/predict` API to summarize any text.
     }
     ```
 
+## Screenshots
+
+### Application Startup
+![App Startup](images/app_startup.png)
+
+### Training the Model
+![Training](images/training.png)
+
+### Generating Summary
+![Summary](images/summary.png)
+
 ## Acknowledgments
 
 - Hugging Face Transformers: [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
