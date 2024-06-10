@@ -1,6 +1,6 @@
-# Text Summarizer
+# Text Summariser
 
-This project is a Text Summarizer application that uses Hugging Face Transformers fine-tuned on the SAMSum dataset. The summarizer takes input text and provides a concise summary. The application includes APIs for training the model and generating summaries.
+This project is a Text summariser application that uses Hugging Face Transformers fine-tuned on the SAMSum dataset. The summariser takes input text and provides a concise summary. The application includes APIs for training the model and generating summaries.
 
 ## Installation
 
@@ -8,8 +8,8 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/TANMAY-WANI/Text-summarizer.git
-    cd Text-summarizer
+    git clone https://github.com/TANMAY-WANI/Text-summariser.git
+    cd Text-summariser
     ```
 
 2. Install the required dependencies:
